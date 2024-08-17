@@ -1,1 +1,3 @@
-# PupBowl
+# PuppyBowl
+
+Welcome to PuppyBowl!
